@@ -1,0 +1,11 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class ArrayList {
++addList(List item): void
++removeList(int index): void
++save(): String
+}
+
+
+@enduml
